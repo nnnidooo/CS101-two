@@ -1,5 +1,7 @@
 import Inheritance1.Laptop;
 import Inheritance1.SmartPhone;
+import Interface1.Burger;
+import Interface1.FastFood;
 import Modelling.School;
 import Modelling.Teacher;
 
@@ -12,5 +14,6 @@ public class Main {
 
     School school=new School();
     Teacher teacher1 = new Teacher("Anne","English");
+
 
 }
