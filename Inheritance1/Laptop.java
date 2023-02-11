@@ -17,5 +17,4 @@ public class Laptop extends Computer {
         System.out.println("Battery life " + battery + " percentage %");
     }
 
-
- }
+}

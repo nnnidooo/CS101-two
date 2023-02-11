@@ -31,4 +31,5 @@ public class Pizza implements FastFood{
     public int getcalories() {
         return 0;
     }
+
 }

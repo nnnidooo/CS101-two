@@ -15,4 +15,5 @@ public class SmartPhone extends Computer {
         System.out.println("Restart this smartphone now!");
     }
 
+
 }

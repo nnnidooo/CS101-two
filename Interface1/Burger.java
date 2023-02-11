@@ -29,4 +29,5 @@ public class Burger implements FastFood {
     public int getcalories() {
         return 0;
     }
+
 }

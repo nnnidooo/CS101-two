@@ -30,4 +30,5 @@ public class Sandwich implements FastFood{
     public int getcalories() {
         return 0;
     }
+
 }

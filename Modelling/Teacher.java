@@ -12,4 +12,5 @@ public class Teacher extends Employee {
     public String getSubject() {
         return subject;
     }
+
 }

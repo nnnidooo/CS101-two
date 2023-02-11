@@ -29,10 +29,9 @@ public class Motorcycle implements Vehicle {
 
     @Override
     public String toString() {
-        return "Interface2.Motorcycle{" +
+        return "Motorcycle{" +
                 "name='" + name + '\'' +
                 ", isFullyTanked=" + isFullyTanked +
                 '}';
     }
-
 }
